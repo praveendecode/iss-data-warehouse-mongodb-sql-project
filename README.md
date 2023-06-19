@@ -5,9 +5,9 @@
 
 ## Explanation To Do Project : 
 
-     #### Step 1: Install/Import Streamlit , pandas , json , pymongo , requestes , time , psycopg2  
+      Step 1: Install/Import Streamlit , pandas , json , pymongo , requestes , time , psycopg2  
 
-     #### Step 2: I have created 6 different methods inside the class "API2MongoSQL" 
+      Step 2: I have created 6 different methods inside the class "API2MongoSQL" 
                   
                    Process of Methods :
 
@@ -23,31 +23,31 @@
 
                                Method 6 :  Delete Sql Records
                                
-    #### Step 3 :  Run  Command prompt  with file location path that where you have the  "DataSyncPro.py" file ,
+     Step 3 :  Run  Command prompt  with file location path that where you have the  "DataSyncPro.py" file ,
                    In CMD do type this command "streamlit run DataSyncPro.py" It will open on web browers that what you have eg: Google Chrome
 
-    #### Step 4 : Make sure to connect your mongodb atlas and SQL DBMS  in your local setup
+     Step 4 : Make sure to connect your mongodb atlas and SQL DBMS  in your local setup
 
 
 
 ## Skills Covered ✅ ⬇️
 
-              #### Python (Scripting)
+              Python (Scripting)
               
-              #### Data Collection
+              Data Collection
               
-              #### MongoDB
+              MongoDB
               
-              #### Sql
+              Sql
               
-              #### API Integration
+              API Integration
               
-              #### Data Managment using MongoDB (Atlas) and PostgresSQl
+              Data Managment using MongoDB (Atlas) and PostgresSQl
               
-              #### IDE: Pycharm Community Version""")
+              IDE: Pycharm Community Version""")
 
 
-### For Contact Regarding Project :
+### For Contact Regarding Project  🤝 :
 
            ["LinkedLn"](https://www.linkedin.com/in/praveen-n-2b4004223/)
      

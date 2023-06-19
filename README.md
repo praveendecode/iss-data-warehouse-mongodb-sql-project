@@ -47,10 +47,9 @@
               IDE: Pycharm Community Version""")
 
 
-### For Contact Regarding Project  🤝 :
+### For Contact Regarding Project  🤝 : [Linkedln](https://www.linkedin.com/in/praveen-n-2b4004223/)
 
-           ["LinkedLn"](https://www.linkedin.com/in/praveen-n-2b4004223/)
-     
+           
 
                                
 
@@ -58,27 +57,7 @@
 
                                 
 
-                               
-      
-  
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-For contact : [Linkedln](https://www.linkedin.com/in/praveen-n-2b4004223/)
+       
 
 
 

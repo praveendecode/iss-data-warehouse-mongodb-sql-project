@@ -24,9 +24,9 @@
                                Method 6 :  Delete Sql Records
                                
     #### Step 3 :  Run  Command prompt  with file location path that where you have the  "DataSyncPro.py" file ,
-                   In CMD do type this command "streamlit run DataSyncPro.py" It will open on web browers that what youi have eg: Google Chrome
+                   In CMD do type this command "streamlit run DataSyncPro.py" It will open on web browers that what you have eg: Google Chrome
 
-    #### Step 4 : Make sure to connect your mongodb atlas and SQL DBMS 
+    #### Step 4 : Make sure to connect your mongodb atlas and SQL DBMS  in your local setup
 
 
 

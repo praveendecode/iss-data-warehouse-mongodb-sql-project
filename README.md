@@ -22,6 +22,8 @@
                                Method 5 :  Delete Document In Mongo Collection
 
                                Method 6 :  Delete Sql Records
+
+                               Streamlit integration with python : for  gui purpose
                                
      Step 3 :  Run  Command prompt  with file location path that where you have the  "DataSyncPro.py" file ,
                In CMD do type this command  "streamlit run DataSyncPro.py"  . It will open on web browers that what you have eg: Google Chrome

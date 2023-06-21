@@ -5,7 +5,7 @@
 
 ## Explanation To Do Execute The  Project : 
 
-      Step 1: Install/Import Streamlit , pandas , json , pymongo , requestes , time , psycopg2  
+      Step 1: Install/Import Streamlit , pandas , json , pymongo , requests , time , psycopg2  
 
       Step 2: I have created 6 different methods inside the class "API2MongoSQL" 
                   
@@ -26,7 +26,7 @@
      Step 3 :  Run  Command prompt  with file location path that where you have the  "DataSyncPro.py" file ,
                In CMD do type this command  "streamlit run DataSyncPro.py"  . It will open on web browers that what you have eg: Google Chrome
 
-     Step 4 : Make sure to connect your mongodb atlas and PostgresSQL DBMS  in your local setup , brower  theme should be  in dark
+     Step 4 : Make sure to connect your mongodb atlas and PostgresSQL DBMS  in your local setup .
 
 
 

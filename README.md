@@ -1,69 +1,56 @@
-# DataSyncPro Project
+# Project Title
 
-
-### In  this  project , I  have  transformed  the  raw  API data  of  ' International Space Station' (ISS)   into   MongoDB  documents , SQL records . With  this project  we  are  unlocking  the  valuable  insights  that  would  be  helpful  for  Communication timestamp analysis ,  message content analysis  and  more  with effective  storage  power  of MongoDB's document-oriented storage  and  SQL's relational database management
-
-## Explanation To Do Execute The  Project : 
-
-      Step 1: Install/Import Streamlit , pandas , json , pymongo , requests , time , psycopg2  
-
-      Step 2: I have created 6 different methods inside the class "API2MongoSQL" 
-                  
-                   Process of Methods :
-
-                               Method 1 :  API iss data  conveted into  to Mongodb Documents
-
-                               Method 2 :  Fetch Mongo Documents 
-
-                               Method 3 :  Coverting Mongo Documents Into Sql Records
-
-                               Method 4:   Fetch Sql Table Records 
-
-                               Method 5 :  Delete Document In Mongo Collection
-
-                               Method 6 :  Delete Sql Records
-
-                               Streamlit integration with python : for  gui purpose
-                               
-     Step 3 :  Run  Command prompt  with file location path that where you have the  "DataSyncPro.py" file ,
-               In CMD do type this command  "streamlit run DataSyncPro.py"  . It will open on web browers that what you have eg: Google Chrome
-
-     Step 4 : Make sure to connect your mongodb atlas and PostgresSQL DBMS  in your local setup .
+### International Space Station Data Harvesting and Warehousing
 
 
 
-## Skills Covered ✅ ⬇️
-
-              Python (Scripting)
-              
-              Data Collection
-              
-              MongoDB
-              
-              SQL
-              
-              API Integration
-              
-              Data Managment using MongoDB (Atlas) and PostgresSQl
-              
-              IDE: Pycharm Community Version
+![image](https://github.com/praveendecode/iss-data-warehouse-mongodb-sql-project/assets/95226524/c835d09c-8cfc-4d62-80fe-02e15a3618c5)
 
 
-### For Contact Regarding Project  🤝 : [Linkedln](https://www.linkedin.com/in/praveen-n-2b4004223/)
+# Overview
 
-           
+In this project, the raw API data of the International Space Station (ISS) is transformed into MongoDB documents and SQL records. The project aims to unlock valuable insights that are helpful for communication timestamp analysis, message content analysis, and more. This is achieved through the effective storage capabilities of MongoDB's document-oriented storage and SQL's relational database management.
+Features
 
-                               
+    Data Transformation: Raw ISS API data is transformed into MongoDB documents and SQL records.
+    Communication Analysis: The project enables communication timestamp analysis and message content analysis.
+    Storage Efficiency: MongoDB's document-oriented storage and SQL's relational database management provide efficient data storage solutions.
 
-                                
+# Getting Started
 
-                                
+### Step 1: Install/Import Required Libraries
 
-       
+    Ensure the necessary libraries are installed or imported: Streamlit, Pandas, JSON, PyMongo, Requests, Time, and Psycopg2.
+    
+### Step 2: Utilize the 'API2MongoSQL' Class
 
+    Inside the class, there are six methods that handle the transformation and management of data:
 
+    API iss data converted into MongoDB Documents
+    Fetch MongoDB Documents
+    Converting MongoDB Documents Into SQL Records
+    Fetch SQL Table Records
+    Delete Document in Mongo Collection
+    Delete SQL Records
+    Note : Streamlit is integrated for GUI purposes.
 
+    
+### Step 3: Run the Project with Streamlit
 
+    Open the command prompt in the directory where the "DataSyncPro.py" file is located. Execute the command: streamlit run DataSyncPro.py. It will open in a web browser.4
+    
+### Step 4: Configure Databases
 
+Make sure to connect your MongoDB Atlas and PostgresSQL DBMS in your local setup.
+Skills Covered ✅ ⬇️
 
+    Python (Scripting)
+    Data Collection
+    MongoDB
+    SQL
+    API Integration
+    Data Management using MongoDB (Atlas) and PostgresSQL
+    Integrated Development Environment (IDE): PyCharm Community Version
+
+Contact for Project Inquiries 🤝
 
